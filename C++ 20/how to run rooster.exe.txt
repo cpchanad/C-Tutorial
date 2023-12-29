@@ -1,0 +1,12 @@
+In VS code,
+
+choose <Terminal> from menu,
+Choose "Configure Task" to see which compiler you wnat to compile the code
+e.g. "Build with XXXX" is usually the one that are already setup properly
+     the other are default one which do not have name, avoid using it
+
+Choose "Run Task..." to select which compiler to compile
+Choose "Run Build Task" after selecting the compiler, it run this compiler as default
+
+In the end
+type ".\rooster.exe" in any cmd terminal, e.g. cmd or powershell
